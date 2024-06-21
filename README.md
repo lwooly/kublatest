@@ -6,4 +6,4 @@ Code to prove that Solution 2 to the mathematical puzzle the '1000 Bottles Test'
 1. Ensure node is installed on your machine.
 2. Clone the repository or download the code files.
 3. Navigate to the root directory of the project folder.
-4. Run the test script to verify the function works correctly: node poisonedBottle.Test.mjs
+4. Run the test script to verify the function works correctly: ```node poisonedBottle.Test.mjs```
